@@ -1,0 +1,20 @@
+Production Qty,Product Name,Component Part Number,Component Name,Quantity,Units
+1,Final Product A,CHM001,Chemical A,1000,Kilograms
+1,Final Product A,CHM002,Chemical B,500,Kilograms
+1,Final Product A,CHM003,Chemical C,300,Kilograms
+1,Final Product A,Intermediate X,Intermediate X,1,Kilograms
+1,Intermediate X,CHM002,Chemical B,200,Kilograms
+1,Intermediate X,CHM003,Chemical C,150,Kilograms
+1,Intermediate X,CHM005,Chemical E,50,Kilograms
+1,Final Product A,RM01,Raw Material 1,2000,Kilograms
+1,Final Product A,RM02,Raw Material 2,1200,Kilograms
+1,Final Product B,CHM001,Chemical A,800,Kilograms
+1,Final Product B,CHM004,Chemical D,400,Kilograms
+1,Final Product B,Intermediate Y,Intermediate Y,1,Kilograms
+1,Intermediate Y,CHM001,Chemical A,600,Kilograms
+1,Intermediate Y,CHM004,Chemical D,300,Kilograms
+1,Intermediate Y,Intermediate Z,Intermediate Z,80,Kilograms
+1,Intermediate Z,CHM007,Chemical G,70,Kilograms
+1,Intermediate Z,CHM008,Chemical H,100,Kilograms
+1,Final Product B,RM04,Raw Material 4,2000,Kilograms
+1,Final Product B,RM05,Raw Material 5,1200,Kilograms
